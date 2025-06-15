@@ -1,5 +1,5 @@
-import java.util.Scanner;
-public class ArithmeticOperator {
+
+public class Arithmetic_Operator {
     public static void main (String[] args){
         int a = 7;
         int b = 8;
